@@ -16,8 +16,10 @@ It is built with multilingual applications in mind, utilizing a blend of statist
 
 ## 🧠 Models Used
 
-- Language Detection is implemented using the `fastText` pretrained model  
-- Translation support is under development, aiming to integrate with advanced models like `transformers`, `MarianMT`, or `M2M100`
+- Language Detection: `fastText` pretrained model  
+- Translation and Text Processing: `T5` (Text-to-Text Transfer Transformer) and `BERT` (Bidirectional Encoder Representations from Transformers)  
+- [Planned] Additional Translation models: `MarianMT`, `M2M100` (to be integrated in future releases)
+
 
 ---
 
