@@ -23,21 +23,28 @@ It is built with multilingual applications in mind, utilizing a blend of statist
 
 ## 📂 Project Structure
 
-``` project/
-│
-├── main.py               # Main script to run the application
-├── detect_language.py    # Module handling language detection logic
-├── translate_text.py     # Translation module (planned for future releases)
-├── utils.py              # Utility and helper functions
-├── requirements.txt      # Python dependencies
-└── README.md             # This documentation file
+- `main.py`  
+  Main script to run the application.
+
+- `detect_language.py`  
+  Module handling language detection logic.
+
+- `translate_text.py`  
+  Translation module (planned for future releases).
+
+- `utils.py`  
+  Utility and helper functions.
+
+- `requirements.txt`  
+  Python dependencies.
+
+- `README.md`  
+  This documentation file.
+
 
 ## 🛠️ Setup
 
 To get started, clone the repository and install the required packages:
-
-```bash
-git clone https://github.com/yourusername/lingua-bridge.git
 cd lingua-bridge
 pip install -r requirements.txt
 
