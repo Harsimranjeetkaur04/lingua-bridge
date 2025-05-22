@@ -23,7 +23,7 @@ It is built with multilingual applications in mind, utilizing a blend of statist
 
 ## 📂 Project Structure
 
-project/
+``` project/
 │
 ├── main.py               # Main script to run the application
 ├── detect_language.py    # Module handling language detection logic
@@ -31,3 +31,24 @@ project/
 ├── utils.py              # Utility and helper functions
 ├── requirements.txt      # Python dependencies
 └── README.md             # This documentation file
+
+## 🛠️ Setup
+
+To get started, clone the repository and install the required packages:
+
+```bash
+git clone https://github.com/yourusername/lingua-bridge.git
+cd lingua-bridge
+pip install -r requirements.txt
+
+## 📌 Roadmap
+
+- ✅ Language detection functionality is fully implemented  
+- ⏳ Translation support is currently in progress  
+- ⏳ Plans to develop a CLI or web-based user interface  
+- ⏳ Future improvements will focus on model optimization and deployment options like Docker and HuggingFace  
+
+## 🤝 Contributing
+
+Contributions are always welcome! If you want to suggest major changes or new features, please open an issue first to discuss your ideas.
+
