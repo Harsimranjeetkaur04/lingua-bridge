@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A state-of-the-art question-answering (QA) system leveraging transformer-based models like **T5** and **BERT**. This project provides accurate, context-sensitive answers to user queries from large text corpora.
 
